@@ -1,1 +1,1 @@
-worker: python3 -m wbb
+web: python3 -m wbb
